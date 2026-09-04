@@ -27,7 +27,7 @@ export function ContactSection() {
 
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
             Planning a trip? Contact Shri Manjunatha Tours and
-            Travels and let us help you with your travel requirements.
+            Travels Chitradurga and let us help you with your travel requirements.
           </p>
 
         </div>
@@ -103,7 +103,7 @@ export function ContactSection() {
               </h3>
 
               <p className="text-muted-foreground">
-                Karnataka, India
+                Chitradurga, Karnataka, India
               </p>
 
               <div className="flex justify-center items-center gap-2 mt-4 text-sm text-muted-foreground">

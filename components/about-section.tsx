@@ -44,11 +44,11 @@ export function AboutSection() {
 
         <div className="text-center mb-14">
           <h2 className="text-3xl sm:text-4xl font-bold mb-4">
-            About Shri Manjunatha Tours and Travels
+            About Shri Manjunatha Tours and Travels chitradurga
           </h2>
 
           <p className="text-lg text-muted-foreground max-w-3xl mx-auto leading-relaxed">
-            Shri Manjunatha Tours and Travels provides dependable
+            Shri Manjunatha Tours and Travels chitradurga provides dependable
             transportation and travel solutions for local and
             outstation journeys. Our goal is to make every trip
             comfortable, convenient and stress-free.

@@ -36,7 +36,7 @@ const reviews = [
     text: "Great service for our family trip. Everything was well organised.",
     location: "Bengaluru",
     image: "/review/shiva.jpeg"
-    image: "/review/chamundi.jpeg"
+    
   },
   {
     name: "Srushti",
