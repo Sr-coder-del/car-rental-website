@@ -1,5 +1,6 @@
 "use client"
 
+import Image from "next/image"
 import { Star } from "lucide-react"
 
 const reviews = [
@@ -8,6 +9,7 @@ const reviews = [
     rating: 5,
     text: "Excellent service and very comfortable journey. The driver was polite and professional.",
     location: "Mysuru",
+    image: "/review/chamundi.jpeg",
   },
   {
     name: "Sushmitha Chilla",
@@ -107,6 +109,14 @@ export function ReviewsSection() {
               <p className="text-muted-foreground leading-relaxed mb-6">
                 “{review.text}”
               </p>
+
+               <Image
+    src={review.image}
+    alt={review.name}
+    width={60}
+    height={60}
+    className="w-14 h-14 rounded-full object-cover"
+  />
 
               {/* Customer */}
               <div className="border-t pt-4">
