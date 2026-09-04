@@ -16,6 +16,7 @@ const reviews = [
     rating: 5,
     text: "Very good experience. The vehicle was clean and the trip was smooth from start to finish.",
     location: "Bengaluru",
+    image: "/review/sushma.jpeg"
   },
   {
     name: "Darshan K A",
@@ -34,18 +35,21 @@ const reviews = [
     rating: 5,
     text: "Great service for our family trip. Everything was well organised.",
     location: "Bengaluru",
+    image: "/review/shiva.jpeg"
   },
   {
     name: "Srushti",
     rating: 5,
     text: "Very friendly driver and excellent vehicle condition. Highly recommended.",
     location: "Chikmagalur",
+    image: "/review/chikmangalore.jpeg"
   },
   {
-    name: "Radika",
+    name: "Gayathri",
     rating: 5,
     text: "Booking was easy and the service was exactly as promised. Very happy with the experience.",
     location: "Chitradurga",
+    image: "/review/madeshwara.jpeg"
   },
   {
     name: "Palaksha",
@@ -58,12 +62,14 @@ const reviews = [
     rating: 5,
     text: "We had a wonderful trip. The driver was knowledgeable and helpful throughout the journey.",
     location: "Davanagere",
+    
   },
   {
     name: "Sanju",
     rating: 5,
     text: "Reliable tour and travel service. We had a very pleasant experience.",
     location: "Mysuru",
+    image: "/review/sanju.jpeg"
   },
 ]
 
