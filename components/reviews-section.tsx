@@ -36,6 +36,7 @@ const reviews = [
     text: "Great service for our family trip. Everything was well organised.",
     location: "Bengaluru",
     image: "/review/shiva.jpeg"
+    image: "/review/chamundi.jpeg"
   },
   {
     name: "Srushti",
@@ -62,7 +63,7 @@ const reviews = [
     rating: 5,
     text: "We had a wonderful trip. The driver was knowledgeable and helpful throughout the journey.",
     location: "Davanagere",
-    
+
   },
   {
     name: "Sanju",
